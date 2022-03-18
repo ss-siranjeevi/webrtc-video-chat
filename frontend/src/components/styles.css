@@ -1,0 +1,33 @@
+.myId {
+  margin-right: 5rem;
+  border-radius: 5px;
+  padding: 15px;
+  background: #ffffff; /* fallback for old browsers */
+  height: fit-content;
+  width: 300px;
+}
+
+.notification {
+  margin-top: 20px;
+}
+
+.call {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.video-container {
+  position:relative;
+}
+
+.my-video {
+  z-index: 10;
+}
+
+.canvas-stream {
+  position: absolute;
+  top: 40px;
+  left: 10px;
+  z-index: 100;
+}

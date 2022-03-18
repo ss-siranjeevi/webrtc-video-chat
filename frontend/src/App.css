@@ -1,0 +1,11 @@
+.header {
+  text-align: center; 
+  color: #143864;
+  margin: 0;
+}
+
+.container {
+  display: flex; 
+  justify-content: space-around;
+  align-items: center;
+}

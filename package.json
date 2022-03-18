@@ -1,0 +1,26 @@
+{
+  "name": "webrtc-video-stream",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ss-siranjeevi/webrtc-video-stream.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ss-siranjeevi/webrtc-video-stream/issues"
+  },
+  "homepage": "https://github.com/ss-siranjeevi/webrtc-video-stream#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.3",
+    "simple-peer": "^9.11.1",
+    "socket.io": "^4.4.1"
+  }
+}
